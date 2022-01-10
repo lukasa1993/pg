@@ -13,9 +13,8 @@
     "url": "git+https://github.com/lukasa1993/pg.git"
   },
   "keywords": [
-    "scope",
-    "expressjs",
-    "oauth2"
+    "postgres",
+    "pg"
   ],
   "author": "lukasa1993",
   "license": "ISC",
